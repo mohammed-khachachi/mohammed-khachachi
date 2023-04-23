@@ -127,11 +127,6 @@
 </p>
 <br /><br />
 <p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammed-khachachi&show_icons=true&locale=en&layout=compact"
-    alt="mohammed-khachachi"
-  />
-</p>
+
 
 
