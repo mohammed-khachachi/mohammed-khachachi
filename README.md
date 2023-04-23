@@ -141,8 +141,8 @@
 <p>
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-pmishra&show_icons=true&locale=en&layout=compact"
-    alt="ashutosh-pmishra"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammed-khachachi&show_icons=true&locale=en&layout=compact"
+    alt="mohammed-khachachi"
   />
 </p>
 
@@ -157,7 +157,7 @@
 <p>
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-pmishra&"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-khachachi&"
     alt="ashutosh-pmishra"
   />
 </p>
