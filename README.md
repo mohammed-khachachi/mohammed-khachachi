@@ -124,8 +124,5 @@
     alt="mohammed-khachachi"
   />
 </p>
-<br /><br />
+<br />
 <p>
-
-
-
